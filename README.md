@@ -1,5 +1,5 @@
 # pokemon-vue
-
+Mini Pokédex hecha con Vue CLI que muestra algunos Pokémon al azar y permite buscarlos.
 ## Project setup
 ```
 npm install
